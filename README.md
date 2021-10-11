@@ -2,6 +2,7 @@
 One website for detection of Brain Tumor, Pneumonia and Malaria. 
 
 ### Deployed WebApp link
+`https://wpnx-myhealth.herokuapp.com/`
 
 #### Brain Tumor Detection
 <img src="images/btmr.png" width="600"  >
