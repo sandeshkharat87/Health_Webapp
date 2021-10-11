@@ -14,9 +14,9 @@ https://wpnx-myhealth.herokuapp.com/
 <img src="images/new_mlra.png" width="600"  >
 
 ### Select What you want to detect ? and upload the image.
-#### For Pnumonia upload Chest xray
-#### For Brain Tumor Upload the MRI scan of Brain
-#### For Malaria upload the Upload the cell images
+`For Pnumonia Detection upload Chest xray`
+`For Brain Tumor Detection Upload the MRI scan of Brain`
+`For Malaria Detection upload the blood cell images`
 
 
 ### How to install Dependencies
