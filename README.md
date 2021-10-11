@@ -2,16 +2,16 @@
 One website for detection of Brain Tumor, Pneumonia and Malaria. 
 
 ### Deployed WebApp link
-`https://wpnx-myhealth.herokuapp.com/`
+https://wpnx-myhealth.herokuapp.com/
 
 #### Brain Tumor Detection
-<img src="images/btmr.png" width="600"  >
+<img src="images/new_Bt.png" width="600"  >
 
 #### Pnumonia Detection
-<img src="images/pn2.png" width="600"  >
+<img src="images/newpn.png" width="600"  >
 
 #### Malaria Detection
-<img src="images/mlra.png" width="600"  >
+<img src="images/new_mlra.png" width="600"  >
 
 ### Select What you want to detect ? and upload the image.
 #### For Pnumonia upload Chest xray
